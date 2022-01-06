@@ -3,12 +3,16 @@
 
 
 
-
-K8S components:
+# K8S components:
 
 1. kube-apiserver
-2. kube-scheduler
-3. kube-controller-manager
-4. etcd
-5. kubelet
-6. kube-proxy
+2. 
+3. kube-scheduler
+4. 
+5. kube-controller-manager
+6. 
+7. etcd
+8. 
+9. kubelet
+10. 
+11. kube-proxy
