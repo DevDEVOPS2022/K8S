@@ -19,4 +19,4 @@
 
 ------------------------------------------------------------------------
 
-# Diagram of K8s networking inside
+# Diagram of K8S networking inside
